@@ -27,10 +27,9 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/Hao14/test">
-    <img src="assets/V1.png" alt="Logo" width="120" height="120">
+    <img src="assets/V1.png" alt="Logo" width="15%" height="15%">
   </a>
 
 <h3 align="center">V1/ HotBot_</h3>
