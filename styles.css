@@ -4,6 +4,25 @@
 	box-sizing: border-box;
 }
 
+
+footer {
+	text-align: center;
+	background-color: #933125;
+	padding: 12px;
+	position: absolute;
+	width: 100%;
+	margin-top: 100%;
+	
+}
+.p1 {
+	color: white;
+}
+
+body {
+	background-image: url('assets/bg1.jpg');
+	background-position-x: center;
+	background-size: auto;
+}
 h4 {
 	text-shadow:2px 2px 3px #933125;
 }
@@ -58,12 +77,22 @@ nav {
 		
 		opacity: 0;
 	}
+	body {
+		overflow-x: hidden;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		
+	}
 }
 
 @media screen and (max-width:768px)
 {
 	body {
 		overflow-x: hidden;
+		background-position-x: center;
+		background-position-y: auto;
+		
 	}
 	.nav-links {
 		position: absolute;
@@ -119,7 +148,7 @@ nav {
 	border: 0 solid;
 	box-shadow: inset 0 0 20px rgba(255, 255, 255, 0);
 	outline: 1px solid;
-	outline-color: rgba(147, 49, 37, 1);
+	outline-color: rgb(255, 149, 137, 1);
 	outline-offset: 0px;
 	text-shadow: none;
 	transition: all 1250ms cubic-bezier(0.19, 1, 0.22, 1);
@@ -127,9 +156,37 @@ nav {
   
   .btn-5:hover {
 	border: 1px solid;
-	border-color: rgb(255, 149, 137);
+	border-color: white;
 	box-shadow: inset 0 0 20px rgba(255, 255, 255, .5), 0 0 20px rgba(255, 255, 255, .2);
 	outline-color: rgba(255, 255, 255, 0);
 	outline-offset: 15px;
-	text-shadow: 1px 1px 2px #933125; 
+	text-shadow: 1px 1px 2px rgb(147, 49, 37, 1); 
   }
+
+span {
+	color: #933125;
+	font-size: 80px;
+	font-weight: bold;
+	text-shadow: 3px 3px 4px black;
+}
+.h2set {
+	font-size: 70px;
+	color: black;
+	text-shadow: 3px 3px 4px white;
+}
+.container {
+	width: 100%;
+	height: 85vh;
+	color: #ff9589;
+	text-shadow: 3px 3px 4px black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.container h1 {
+	font-size: 90px;
+}
+
+
