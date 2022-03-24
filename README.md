@@ -30,7 +30,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hao14/test">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="asests/V1.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">V1/ HotBot_</h3>
