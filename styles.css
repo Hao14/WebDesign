@@ -22,6 +22,8 @@ body {
 	background-image: url('assets/bg1.jpg');
 	background-position-x: center;
 	background-size: auto;
+	
+	
 }
 h4 {
 	text-shadow:2px 2px 3px #933125;
@@ -95,6 +97,7 @@ nav {
 		
 	}
 	.nav-links {
+		z-index: 4;
 		position: absolute;
 		right:0px;
 		height: 92vh;
@@ -165,7 +168,7 @@ nav {
 
 span {
 	color: #933125;
-	font-size: 80px;
+	font-size: 85px;
 	font-weight: bold;
 	text-shadow: 3px 3px 4px black;
 }
@@ -175,18 +178,28 @@ span {
 	text-shadow: 3px 3px 4px white;
 }
 .container {
-	width: 100%;
-	height: 85vh;
+	background-color: rgba(255, 149, 137, 0.1);
+	border: 4px solid;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 1;
+	width: 50%;
+	height: 35vh;
 	color: #ff9589;
 	text-shadow: 3px 3px 4px black;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	
+	backdrop-filter: blur(3px);
 }
 
 .container h1 {
 	font-size: 90px;
 }
 
+.bg-blur {
+backdrop-filter: blur;
+}
 
