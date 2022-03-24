@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://www.johnishot.online)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<h4 align="center">Undergoing to become a full Website.</h4>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,14 +92,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -107,6 +101,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!-- GETTING STARTED -->
 ## Discord
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -122,12 +117,16 @@ _For more examples, please refer to the [Documentation](https://www.johnishot.on
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
+- [x] Pages
+    - [ ] Home
+    - [ ] About
+    - [ ] Invites
+    - [ ] Contact
+- [ ] Dynmap
+- [ ] 
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Hao14/test/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -165,7 +164,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@nah.hao](http://www.instagram.com/nah.hao) - jaysanasasin@gmail.com
 
-Project Link: [https://github.com/Hao14/test](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Hao14/test](https://github.com/Hao14/test)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -174,6 +173,7 @@ Project Link: [https://github.com/Hao14/test](https://github.com/github_username
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * []()
 * []()
 * []()
@@ -193,7 +193,7 @@ Project Link: [https://github.com/Hao14/test](https://github.com/github_username
 [issues-shield]: https://img.shields.io/github/issues/Hao14/test.svg?style=for-the-badge
 [issues-url]: https://github.com/Hao14/test/issues
 [license-shield]: https://img.shields.io/github/license/Hao14/test.svg?style=for-the-badge
-[license-url]: https://github.com/Hao14/test/blob/master/LICENSE.txt
+[license-url]: https://github.com/Hao14/test/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: assets/pbg1.png
