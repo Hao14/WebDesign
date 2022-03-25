@@ -281,3 +281,12 @@ backdrop-filter: blur;
 .button-19:disabled {
   cursor: auto;
 }
+
+.footerli {
+	list-style: none;
+}
+
+.fli {
+	color: white;
+	text-decoration: underline;
+}
