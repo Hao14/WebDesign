@@ -27,10 +27,9 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/Hao14/test">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/V1.png" alt="Logo" width="15%" height="15%">
   </a>
 
 <h3 align="center">V1/ HotBot_</h3>
@@ -101,14 +100,13 @@
 
 <!-- GETTING STARTED -->
 ## Discord
-
+[JoinDiscord](https://discord.com/invite/48vbdXY9cp) - 陈英豪-Hao™#7801
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://www.johnishot.online)_
+For info for how to use Dynmap visit the doc bellow.
+[Documentation](https://www.johnishot.online)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -123,8 +121,7 @@ _For more examples, please refer to the [Documentation](https://www.johnishot.on
     - [ ] Invites
     - [ ] Contact
 - [ ] Dynmap
-- [ ] 
-    - [ ] Nested Feature
+- [ ] Issues
 
 See the [open issues](https://github.com/Hao14/test/issues) for a full list of proposed features (and known issues).
 
@@ -162,7 +159,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@nah.hao](http://www.instagram.com/nah.hao) - jaysanasasin@gmail.com
+Info - [@nah.hao](http://www.instagram.com/nah.hao) - jaysanasasin@gmail.com
 
 Project Link: [https://github.com/Hao14/test](https://github.com/Hao14/test)
 
@@ -175,8 +172,7 @@ Project Link: [https://github.com/Hao14/test](https://github.com/Hao14/test)
 
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * []()
-* []()
-* []()
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
