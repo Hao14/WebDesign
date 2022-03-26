@@ -80,7 +80,7 @@ nav {
 	transition: all 0.3s ease;
 }
 
-@media screen and (min-width:768px)
+@media (min-width:400px)
 {
 	.nav-links{
 	width: 35%;
@@ -98,7 +98,7 @@ nav {
 	}
 }
 
-@media screen and (max-width:768px)
+@media (max-width:400px)
 {
 	body {
 		overflow-x: hidden;
@@ -107,7 +107,7 @@ nav {
 		
 	}
 	.nav-links {
-		z-index: 4;
+		z-index: 5;
 		position: absolute;
 		right:0px;
 		height: 92vh;
@@ -282,7 +282,7 @@ backdrop-filter: blur;
   cursor: auto;
 }
 
-.footerli {
+.footerli1 {
 	list-style: none;
 }
 

@@ -19,3 +19,13 @@ const navSlide = () => {
 }
 
 navSlide();
+
+var typed = new Typed(".auto-type", {
+    strings: ['HotBot', 'Discord', 'HotBot', "V2..."],
+    startDelay: 1500,
+    backDelay: 1000,
+    typeSpeed: 120,
+    backSpeed: 120,
+    cursorChar: '_',
+    loop: true
+    })
