@@ -82,7 +82,7 @@ nav {
 	transition: all 0.3s ease;
 }
 
-@media (min-width:400px)
+@media (min-width:500px)
 {
 	.nav-links{
 		width: 35%;
@@ -101,7 +101,7 @@ nav {
 	}
 }
 
-@media (max-width:400px)
+@media (max-width:500px)
 {
 	body {
 		overflow-x: hidden;
