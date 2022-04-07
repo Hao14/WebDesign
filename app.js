@@ -14,7 +14,14 @@ const navSlide = () => {
             }
         });
         menu1.classList.toggle('toggle');
+
+        if (nav.style.width = "0%") {
+            nav.style.width = "100%"
+        } else {
+            nav.style.width = "0%"
+        }
         
+        console.log(navLinks.width);
     });
 }
 
