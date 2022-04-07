@@ -161,7 +161,8 @@ Project Link: [https://github.com/Hao14/WebDesign](https://github.com/Hao14/WebD
 ## Acknowledgments
 
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* []()
+* [Git Guardian](https://dashboard.gitguardian.com/)
+* [CodeFactor](www.codefactor.io)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
