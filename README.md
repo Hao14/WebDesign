@@ -32,7 +32,7 @@
     <img src="assets/V1.png" alt="Logo" width="15%" height="15%">
   </a>
 
-<h3 align="center">V1/ HotBot_</h3>
+<h3 align="center">V1/ RiceHub</h3>
 
   <p align="center">
     this project is a site underdevelopment to help me get started learning html, css, javascript.
