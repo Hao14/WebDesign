@@ -100,7 +100,7 @@
 
 <!-- GETTING STARTED -->
 ## Discord
-[JoinDiscord](https://discord.com/invite/48vbdXY9cp) - 陈英豪-Hao™#7801
+[JoinDiscord](https://discord.com/invite/48vbdXY9cp) - @ying.hao
 
 <!-- USAGE EXAMPLES -->
 ## Usage
